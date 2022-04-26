@@ -11,8 +11,8 @@ li {
 .icon{
   width: 300px;
   height: 300px;
-  border-radius:50%;
-  /*border-radius:20px;*/
+  /*border-radius:50%;*/
+  border-radius:20px;
 }
 
 .detail{
